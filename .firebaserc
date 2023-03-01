@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "shoozie-c1fe4"
-  }
+  },
+  "targets": {
+    "shoozie-c1fe4": {
+      "hosting": {
+        "irittygold": [
+          "irittygold"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
