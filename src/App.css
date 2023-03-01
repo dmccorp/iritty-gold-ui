@@ -3,7 +3,40 @@ body {
   overflow: hidden;
   width: 100vw;
   height: 100vh;
+  overflow-y: auto;
   /* background-image: url("https://user-images.githubusercontent.com/26748614/96337246-f14d4580-1085-11eb-8793-a86d929e034d.jpg");
   background-size: cover;
   backdrop-filter:  brightness(50%); */
+}
+* {
+  box-sizing: border-box;
+}
+
+input {
+  width: 90%;
+  height: 40px;
+  padding-left: 10px;
+  border: 2px solid black;
+  outline: none!important;
+  margin: 10px 0;
+  max-width: 300px;
+}
+
+.subbtn {
+  width: 90%;
+  height: 40px;
+  color: #fff;
+  line-height: 40px;
+  text-align: center;
+  background-color: #000;
+  margin: 10px 0;
+  max-width: 300px;
+}
+
+.error {
+  width: 90%;
+  text-align: center;
+  margin: 10px 0;
+  max-width: 300px;
+  color: rgb(153, 33, 33);
 }
