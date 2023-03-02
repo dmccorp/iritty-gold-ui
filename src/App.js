@@ -21,7 +21,8 @@ export default function App() {
     setLoading(true);
     setTimeout(()=> {
       setLoading(false);
-      if(username === 'anuprasadnambiar@gmail.com' && password === 'himalayan02march2024') {
+      const _username = username.toLocaleLowerCase();
+      if((_username === 'anuprasadnambiar@gmail.com' || _username === 'anuprasadnambiar@gmail') && password === '02march2024himalayan') {
         setAuth(true);
       } else {
         setAuth(false);
