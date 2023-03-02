@@ -89,7 +89,7 @@ function Topic() {
         Happy Birthday Prasad Bhai!
       </p>
       <h3 style={{ fontSize: 20, padding: '20px 50px 20px 50px', margin: 0, textAlign: 'center', color: '#3445de' }}>
-        <a href='https://www.youtube.com/channel/UCWRf7BSpzABs0YbInbNlDsw' target="_blank" rel="noreferrer">Euphoria - Agni Vyuham</a>
+        <a href='https://youtu.be/FSizfURDvvY' target="_blank" rel="noreferrer">Euphoria - Agni Vyuham</a>
       </h3>
       <p style={{ fontSize: 16, padding: '20px 50px 150px 50px', margin: 0, textAlign: 'center' }}>
         Please use headphones. 
